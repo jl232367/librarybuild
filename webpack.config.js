@@ -4,6 +4,7 @@ module.exports = {
   mode: 'development',
   entry: './src/index.js',
   output: {
+    publicPath: "/librarybuild/",
     path: path.resolve(__dirname, 'dist'),
     filename: 'main.js'
   },
