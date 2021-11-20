@@ -1,2 +1,2 @@
 # librarybuild
-Simple library webapp hope to build out
+This is a simple Front end Library app to work with JavaScript factory functions. 
